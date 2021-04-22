@@ -1,4 +1,4 @@
-# Read Me Firsts otrosss
+# Read Me Firsts otro
 The following was discovered as part of building this project:
 ss
 
