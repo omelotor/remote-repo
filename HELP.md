@@ -1,5 +1,6 @@
 # Read Me First
 The following was discovered as part of building this project:
+ss
 
 * The original package name 'com.promigas.nominaciones.utilidades.srv-gestion-correos' is invalid and this project uses 'com.promigas.nominaciones.utilidades.srvgestioncorreos' instead.
 
